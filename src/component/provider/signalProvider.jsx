@@ -1,8 +1,8 @@
-import React from 'react'
-import Provide from './provide'
-import img from '../../assets/img/trading.jpg'
-import img2 from '../../assets/img/img2.jpg'
-import img3 from '../../assets/img/trading.jpg'
+import React from 'react';
+import Provide from './provide';
+import img from '../../assets/img/trading.jpg';
+import img2 from '../../assets/img/img2.jpg';
+import img3 from '../../assets/img/trading.jpg';
 
 const providers = [
     {

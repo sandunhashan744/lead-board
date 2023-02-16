@@ -1,5 +1,5 @@
-import React from 'react'
-import videoBg from '../../assets/bgVideo/forex.mp4'
+import React from 'react';
+import videoBg from '../../assets/bgVideo/forex.mp4';
 import Typewriter from 'typewriter-effect';
 
 const hero = () => {
